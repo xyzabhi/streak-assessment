@@ -18,4 +18,4 @@ function generatePieChartData(numPoints) {
   return data;
 }
 
-export { generateRandomData };
+export { generateRandomData,generatePieChartData };
